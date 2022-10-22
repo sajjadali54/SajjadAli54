@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SajjadAli54
-- 👀 I’m interested in Web front end and Machine Learning. 
+- 👋 I currently have 2 and half years of working experience as Java developer.
+- 👀 I’m interested in Java development, Web front end and Machine Learning. 
 - 🌱 I’m currently doing undergrad in computer science(2023).
 - 💞️ I’m looking to work remotely.
 - 📫 You can reach me at : khaskhelisajjadali6@gmail.com
