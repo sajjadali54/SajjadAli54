@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SajjadAli54
-- 👋 I currently have 2 and half years of working experience as Java developer.
-- 👀 I’m interested in Java development, Web front end and Machine Learning. 
+- 👋 I am Skilled at: Java, Android development, Web, Machine Learning, MySQL, Data Structure, Blockchain 
 - 🌱 I’m currently doing undergrad in computer science(2023).
 - 💞️ I’m looking to work remotely.
 - 📫 You can reach me at : khaskhelisajjadali6@gmail.com
