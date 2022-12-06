@@ -84,7 +84,7 @@
 ## :writing_hand: Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
+- [Hello guys!](https://dev.to/sajjadali54/hello-guys-4pp0)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
