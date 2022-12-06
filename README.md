@@ -16,7 +16,11 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </p>
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sajjad Ali!
+<h1 align="center">
+  Hey There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  It's Sajjad Ali
+</h1>
 
 ## About me
 - I am currently studying in final year of my bachelors in Computer Science with an overall CGPA of 3.62(almost 85%).
