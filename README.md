@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @SajjadAli54
-- 👋 I am Skilled at: Java, Android development, Web, Machine Learning, MySQL, Data Structure, Blockchain 
-- 🌱 I’m currently doing undergrad in computer science(2023).
-- 💞️ I’m looking to work remotely.
-- 📫 You can reach me at : khaskhelisajjadali6@gmail.com
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sajjad Ali!
+## About me
+- I am currently studying in final year of my bachelors in Computer Science with an overall CGPA of 3.62(almost 85%).
+- I received the Sindh Talent Hunt Scholarship by ranking in Top 300 for the year 2019 at Sukkur IBA University.
+- I received the first ranking in Sindh Talent Hunt Scholarship foundation semester.
+- I have also received a prize for being selected in top 10 rakings in Fibonacci mathematical event.
+- I have developed developed a CMS using java which is curretly being used inside a school for data management.
+- I love to listen music while coding.
+- I am Skilled at: Java, Android development, Web, Machine Learning, MySQL, Data Structure, Blockchain
+- I’m looking to work remotely.
+- You can reach me at : khaskhelisajjadali6@gmail.com
+
+## Tech Stack
+
+## Connect with me:
+![Twitter Follow](https://img.shields.io/twitter/follow/ali_imsajjad?style=social) 
+
 
 <!---
 SajjadAli54/SajjadAli54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
