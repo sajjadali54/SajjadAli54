@@ -70,7 +70,7 @@
 - 👨‍🎓 I received the Sindh Talent Hunt Scholarship by ranking in Top 300 for the year 2019 at Sukkur IBA University.
 - 🥇 I received the first ranking in Sindh Talent Hunt Scholarship foundation semester.
 - 🥇 I have also received a prize for being selected in top 10 rakings in Fibonacci mathematical event.
-- ☕ I have developed developed a CMS using java `<span>` `<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">` which is currently being used inside a school for data management.
+- ☕ I have developed developed a CMS using java <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> which is currently being used inside a school for data management.
 - 🌱 Exploring Technical Content Writing.
 - 💌 I love to listen music while coding.
 - ⚡ In my free time, I solve problems on Hackerrank and read tech articles, novels, stories, and poetry.
