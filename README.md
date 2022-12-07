@@ -1,3 +1,5 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <div id="header" align="center">
   <img 
     src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" 
@@ -13,17 +15,17 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sajjad-ali-b428b6198">
     <img 
-      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCXfYIIBvk2e4H60BdKoznRA">
     <img 
-      src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" 
+      src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" 
       alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/ali_imsajjad">
     <img 
-      src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" 
+      src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" 
       alt="Twitter Badge"/>
   </a>
   <a href="https://www.kaggle.com/sajjadali786">
@@ -238,9 +240,12 @@
 
 ## 🔥 My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SajjadAli54&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Sajjad Ali's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SajjadAli54&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Sajjad Ali's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SajjadAli54&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadAli54)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SajjadAli54&theme=transparent)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadAli54&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
