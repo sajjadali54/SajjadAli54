@@ -248,7 +248,4 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Hello guys!](https://dev.to/sajjadali54/hello-guys-4pp0)
-- [Android Networking with Volley](https://dev.to/sajjadali54/android-networking-with-volley-coi)
-
 <!-- BLOG-POST-LIST:END -->
