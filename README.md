@@ -244,8 +244,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadAli54&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/SajjadAli54/SajjadAli54/blob/output/github-contribution-grid-snake.svg)
-
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
