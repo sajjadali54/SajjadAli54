@@ -1,5 +1,3 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
 <div id="header" align="center">
   <img 
     src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" 
@@ -245,9 +243,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SajjadAli54&theme=transparent)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadAli54&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadAli54&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✍️ Blog Posts
 
