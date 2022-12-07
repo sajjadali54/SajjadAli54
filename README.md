@@ -64,7 +64,7 @@
 
 ---
 
-## 👨‍💻 About Me :
+## 👨‍💻 About Me
 
 - 🧑‍ I am currently in final year of my bachelors in Computer Science with an overall CGPA of 3.62(almost 85%).
 - 👨‍🎓 I received the Sindh Talent Hunt Scholarship by ranking in Top 300 for the year 2019 at Sukkur IBA University.
@@ -243,6 +243,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SajjadAli54&theme=transparent)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadAli54&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/SajjadAli54/SajjadAli54/blob/output/github-contribution-grid-snake.svg)
 
 ## ✍️ Blog Posts
 
