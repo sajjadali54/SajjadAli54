@@ -250,7 +250,3 @@
 - [Android Networking with Volley](https://dev.to/sajjadali54/android-networking-with-volley-coi)
 - [Hello guys!](https://dev.to/sajjadali54/hello-guys-4pp0)
 <!-- BLOG-POST-LIST:END -->
-  
-## 💥 Repositories
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=github-readme-stats)](https://github.com/SajjadAli54/content-providers.git)
