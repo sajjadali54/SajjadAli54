@@ -250,3 +250,8 @@
 - [Android Networking with Volley](https://dev.to/sajjadali54/android-networking-with-volley-coi)
 - [Hello guys!](https://dev.to/sajjadali54/hello-guys-4pp0)
 <!-- BLOG-POST-LIST:END -->
+  
+## ⏲️ Waka Time
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
