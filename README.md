@@ -5,17 +5,18 @@
   />
 </div>
  <p align="center">
-  <img 
-    src="https://readme-jokes.vercel.app/api" 
-    alt="Jokes Card" 
-  />
-
-<img 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes" 
-    alt="Jokes Card" 
-  />
-
- </p>
+    <img 
+      src="https://readme-jokes.vercel.app/api" 
+      alt="Jokes Card" 
+    />
+    <img 
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes" 
+      alt="Quote Card"
+    />
+  </p>
+  <p align="center">
+    
+  </p>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sajjad-ali-b428b6198">
     <img 
