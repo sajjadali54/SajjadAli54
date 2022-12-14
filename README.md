@@ -10,7 +10,10 @@
     alt="Jokes Card" 
   />
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes" 
+    alt="Jokes Card" 
+  />
 
  </p>
 <div id="badges" align="center">
