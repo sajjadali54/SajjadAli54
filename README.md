@@ -4,16 +4,18 @@
     width="100"
   />
 </div>
- <p align="center">
+ <div align="center">
     <img 
       src="https://readme-jokes.vercel.app/api" 
       alt="Jokes Card" 
     />
+ </div>
+ <div align="center">
     <img 
       src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes" 
       alt="Quote Card"
     />
-  </p>
+  </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sajjad-ali-b428b6198">
     <img 
@@ -74,7 +76,7 @@
 - 👨‍🎓 I received the Sindh Talent Hunt Scholarship by ranking in Top 300 for the year 2019 at Sukkur IBA University.
 - 🥇 I received the first ranking in Sindh Talent Hunt Scholarship foundation semester.
 - 🥇 I have also received a prize for being selected in top 10 rakings in Fibonacci mathematical event.
-- ☕ I have developed developed a CMS using java <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> which is currently being used inside a school for data management.
+- ☕ I have developed developed a CMS using java `<span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">` which is currently being used inside a school for data management.
 - 🌱 Exploring Technical Content Writing.
 - 💌 I love to listen music while coding.
 - ⚡ In my free time, I solve problems on Hackerrank and read tech articles, novels, stories, and poetry.
@@ -142,7 +144,7 @@
     height="30"/>
   </div>
 
-<div>
+  <div>
     <img 
       src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" 
       title="Matplotlib" 
@@ -171,39 +173,41 @@
       width="80" 
       height="30"
     />
-  </div>
-  <div>
-    <img 
-      src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" 
-      width="80" 
-      height="30"/>
-    <img 
-      src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" 
-      width="80"
-      height="30"/>
-    <img 
-      src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" 
-      width="80" 
-      height="30"/>
-    <img 
-      src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" 
-      width="80" 
-      height="30"/>
-    <img 
-      src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" 
-      width="80" 
-      height="30"/>
-    <img 
-      src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" 
-      width="80" 
-      height="30"
-    />
-    <img 
-      src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" 
-      width="80" 
-      height="30"
-    />
-  </div>
+    </div>
+    <div>
+      <img 
+        src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" 
+        width="80" 
+        height="30"
+      />
+      <img 
+        src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" 
+        width="80"
+        height="30"/>
+      <img 
+        src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" 
+        width="80" 
+        height="30"/>
+      <img 
+        src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" 
+        width="80" 
+        height="30"/>
+      <img 
+        src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" 
+        width="80" 
+        height="30"/>
+      <img 
+        src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" 
+        width="80" 
+        height="30"
+      />
+      <img 
+        src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" 
+        width="80" 
+        height="30"
+      />
+    </div>
+  
   <div>
     <img 
     src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" 
@@ -254,8 +258,10 @@
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Android Networking with Volley](https://dev.to/sajjadali54/android-networking-with-volley-coi)
 - [Hello guys!](https://dev.to/sajjadali54/hello-guys-4pp0)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏦 Projects
@@ -263,3 +269,14 @@
 [![Content Resolver Android](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=content-resolver&theme=algolia)](https://github.com/SajjadAli54/content-resolver.git)
 
 [![Alarm Manager Android](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=alarm&theme=algolia)](https://github.com/SajjadAli54/alarm.git)
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+<!-- href="https://github.com/anuraghazra/github-readme-stats" -->
+
+<!-- href="https://github.com/anuraghazra/convoychat" -->
