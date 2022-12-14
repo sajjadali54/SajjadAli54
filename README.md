@@ -275,3 +275,7 @@
 [![C# Projects](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=CSharp-Projects&theme=algolia)](https://github.com/SajjadAli54/CSharp-Projects.git)
 
 [![Flutter Projects](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=flutter-Projects&theme=algolia)](https://github.com/SajjadAli54/flutter-Projects.git)
+
+[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=java-tasks&theme=algolia)](https://github.com/SajjadAli54/java-tasks.git)
+
+[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=data-structures&theme=algolia)](https://github.com/SajjadAli54/data-structures.git)
