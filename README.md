@@ -270,6 +270,6 @@
 
 ## 🏦 Projects
 
-[![Content Resolver Android](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=content-resolver&theme=algolia)](https://github.com/SajjadAli54/content-resolver.git)
+[![Android](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=android-material&theme=algolia)](https://github.com/SajjadAli54/android-material.git)
 
-[![Alarm Manager Android](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=alarm&theme=algolia)](https://github.com/SajjadAli54/alarm.git)
+[![C# Projects](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=CSharp-Projects&theme=algolia)](https://github.com/SajjadAli54/CSharp-Projects.git)
