@@ -263,18 +263,37 @@
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Android Networking with Volley](https://dev.to/sajjadali54/android-networking-with-volley-coi)
 - [Hello guys!](https://dev.to/sajjadali54/hello-guys-4pp0)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏦 Projects
 
-[![Android](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=android-material&theme=algolia)](https://github.com/SajjadAli54/android-material.git)
+<a href="https://github.com/SajjadAli54/data-science.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=data-science&theme=algolia" />
+</a>
 
-[![C# Projects](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=CSharp-Projects&theme=algolia)](https://github.com/SajjadAli54/CSharp-Projects.git)
+<a href="https://github.com/SajjadAli54/android-material.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=android-material&theme=algolia" />
+</a>
 
-[![Flutter Projects](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=flutter-Projects&theme=algolia)](https://github.com/SajjadAli54/flutter-Projects.git)
+<a href="https://github.com/SajjadAli54/CSharp-Projects.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=CSharp-Projects&theme=algolia" />
+</a>
 
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=java-tasks&theme=algolia)](https://github.com/SajjadAli54/java-tasks.git)
+<a href="https://github.com/SajjadAli54/flutter-Projects.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=flutter-Projects&theme=algolia" />
+</a>
 
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=data-structures&theme=algolia)](https://github.com/SajjadAli54/data-structures.git)
+<a href="https://github.com/SajjadAli54/flash-app.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=flash-app&theme=algolia" />
+</a>
+
+<a href="https://github.com/SajjadAli54/data-structures.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=data-structures&theme=algolia" />
+</a>
+
+<a href="https://github.com/SajjadAli54/java-tasks.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=java-tasks&theme=algolia" />
+</a>
