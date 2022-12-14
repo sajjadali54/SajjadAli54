@@ -10,7 +10,7 @@
     alt="Jokes Card" 
   />
    <img 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes" 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)](https://github.com/piyushsuthar/github-readme-quotes" 
     alt="Jokes Card" 
   />
  </p>
