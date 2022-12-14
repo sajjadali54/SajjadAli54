@@ -14,9 +14,6 @@
       alt="Quote Card"
     />
   </p>
-  <p align="center">
-    
-  </p>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sajjad-ali-b428b6198">
     <img 
@@ -244,12 +241,11 @@
 
 ## 🔥 My Stats
 
-[![Sajjad Ali's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SajjadAli54&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Sajjad Ali's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SajjadAli54&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Sajjad Ali's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SajjadAli54&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SajjadAli54&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SajjadAli54&theme=algolia)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadAli54&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadAli54&langs_count=8&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✍️ Blog Posts
 
@@ -268,3 +264,9 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+## 🏦 Projects
+
+[![Content Resolver Android](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=content-resolver&theme=algolia)](https://github.com/SajjadAli54/content-resolver.git)
+
+[![Alarm Manager Android](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=alarm&theme=algolia)](https://github.com/SajjadAli54/alarm.git)
