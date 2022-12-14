@@ -1,23 +1,22 @@
-![Header](image/README/1671027853487.png)
-
 <div id="header" align="center">
   <img 
     src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" 
     width="100"
   />
+
+![Header](image/README/1671027853487.png)
+
 </div>
  <div align="center">
     <img 
       src="https://readme-jokes.vercel.app/api" 
       alt="Jokes Card" 
     />
- </div>
- <div align="center">
     <img 
       src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes" 
       alt="Quote Card"
     />
-  </div>
+ </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sajjad-ali-b428b6198">
     <img 
@@ -260,6 +259,7 @@
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Android Networking with Volley](https://dev.to/sajjadali54/android-networking-with-volley-coi)
 - [Hello guys!](https://dev.to/sajjadali54/hello-guys-4pp0)
 <!-- BLOG-POST-LIST:END -->
