@@ -270,6 +270,9 @@
 
 ## 🏦 Projects
 
+<a href="https://github.com/SajjadAli54/cataract-classification.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=cataract-classification&theme=algolia" />
+</a>
 <a href="https://github.com/SajjadAli54/data-science.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=data-science&theme=algolia" />
 </a>
