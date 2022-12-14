@@ -269,14 +269,3 @@
 [![Content Resolver Android](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=content-resolver&theme=algolia)](https://github.com/SajjadAli54/content-resolver.git)
 
 [![Alarm Manager Android](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=alarm&theme=algolia)](https://github.com/SajjadAli54/alarm.git)
-
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
-<!-- href="https://github.com/anuraghazra/github-readme-stats" -->
-
-<!-- href="https://github.com/anuraghazra/convoychat" -->
