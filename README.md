@@ -1,12 +1,18 @@
 <div id="header" align="center">
   <img 
-    src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" 
+    src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" 
     width="100"
   />
 </div>
 <p align="center">
    <img 
     src="https://readme-jokes.vercel.app/api" 
+    alt="Jokes Card" 
+  />
+ </p>
+ <p align="center">
+   <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes" 
     alt="Jokes Card" 
   />
  </p>
@@ -57,7 +63,7 @@
 </h1>
 <div align="center">
   <img 
-    src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" 
+    src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" 
     width="600" 
     height="300"/>
 </div>
@@ -247,11 +253,12 @@
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Android Networking with Volley](https://dev.to/sajjadali54/android-networking-with-volley-coi)
 - [Hello guys!](https://dev.to/sajjadali54/hello-guys-4pp0)
 <!-- BLOG-POST-LIST:END -->
-  
+
 ## ⏲️ Waka Time
-  
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
