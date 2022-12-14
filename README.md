@@ -4,13 +4,11 @@
     width="100"
   />
 </div>
-<p align="center">
-   <img 
+ <p align="center">
+  <img 
     src="https://readme-jokes.vercel.app/api" 
     alt="Jokes Card" 
   />
- </p>
- <p align="center">
    <img 
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes" 
     alt="Jokes Card" 
