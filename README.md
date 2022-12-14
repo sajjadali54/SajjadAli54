@@ -263,6 +263,7 @@
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Android Networking with Volley](https://dev.to/sajjadali54/android-networking-with-volley-coi)
 - [Hello guys!](https://dev.to/sajjadali54/hello-guys-4pp0)
 <!-- BLOG-POST-LIST:END -->
@@ -272,3 +273,5 @@
 [![Android](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=android-material&theme=algolia)](https://github.com/SajjadAli54/android-material.git)
 
 [![C# Projects](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=CSharp-Projects&theme=algolia)](https://github.com/SajjadAli54/CSharp-Projects.git)
+
+[![Flutter Projects](https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=flutter-Projects&theme=algolia)](https://github.com/SajjadAli54/flutter-Projects.git)
