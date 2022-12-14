@@ -241,11 +241,15 @@
 
 ## 🔥 My Stats
 
-[![Sajjad Ali's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SajjadAli54&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SajjadAli54&show_icons=true&theme=radical)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SajjadAli54&theme=algolia)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SajjadAli54&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadAli54&langs_count=8&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadAli54&langs_count=8&layout=compact&theme=radical)
+
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sajjadali&theme=radical)
+
+---
 
 ## ✍️ Blog Posts
 
@@ -254,16 +258,6 @@
 - [Android Networking with Volley](https://dev.to/sajjadali54/android-networking-with-volley-coi)
 - [Hello guys!](https://dev.to/sajjadali54/hello-guys-4pp0)
 <!-- BLOG-POST-LIST:END -->
-
-## ⏲️ Waka Time
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 ## 🏦 Projects
 
