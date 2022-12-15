@@ -254,11 +254,7 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SajjadAli54&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadAli54&langs_count=8&layout=compact&theme=radical)
-
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sajjadali&theme=radical)
-
----
+## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadAli54&langs_count=8&layout=compact&theme=radical)
 
 ## ✍️ Blog Posts
 
