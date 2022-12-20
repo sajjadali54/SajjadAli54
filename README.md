@@ -1,5 +1,3 @@
-<script src="script.js"></script>
-
 <div id="header" align="center">
   <img 
     src="image/README/1671027853487.png" 
@@ -248,6 +246,7 @@
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Android Networking with Volley](https://dev.to/sajjadali/android-networking-with-volley-coi)
 - [Hello guys!](https://dev.to/sajjadali/hello-guys-4pp0)
 <!-- BLOG-POST-LIST:END -->
