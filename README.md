@@ -1,4 +1,8 @@
-I'm writing: ...replace... ![Build
+What I'm writing:
+
+- This will be replaced
+- This too!
+- This three!
 
 <div id="header" align="center">
   <img 
@@ -8,16 +12,12 @@ I'm writing: ...replace... ![Build
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<img 
-    src="https://readme-jokes.vercel.app/api" 
-    width="100%"
-    alt="Jokes Card" 
-  />
+`<img src="https://readme-jokes.vercel.app/api" width="100%" alt="Jokes Card" />`
 
 </div>
 <div id="badges" align="center">
-              
-  <a href="https://www.linkedin.com/in/sajjad-ali-b428b6198">
+
+<a href="https://www.linkedin.com/in/sajjad-ali-b428b6198">
     <img 
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn Badge"/>
@@ -76,7 +76,7 @@ I'm writing: ...replace... ![Build
 - 👨‍🎓 I received the Sindh Talent Hunt Scholarship by ranking in Top 300 for the year 2019 at Sukkur IBA University.
 - 🥇 I received the first ranking in Sindh Talent Hunt Scholarship foundation semester.
 - 🥇 I have also received a prize for being selected in top 10 rakings in Fibonacci mathematical event.
-- ☕ I have developed developed a CMS using java <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> which is currently being used inside a school for data management.
+- ☕ I have developed developed a CMS using java `<span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">` which is currently being used inside a school for data management.
 - 🌱 Exploring Technical Content Writing.
 - 💌 I love to listen music while coding.
 - ⚡ In my free time, I solve problems on Hackerrank and read tech articles, novels, stories, and poetry.
@@ -144,7 +144,7 @@ I'm writing: ...replace... ![Build
     height="30"/>
   </div>
 
-  <div>
+<div>
     <img 
       src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" 
       title="Matplotlib" 
@@ -207,8 +207,8 @@ I'm writing: ...replace... ![Build
         height="30"
       />
     </div>
-  
-  <div>
+
+<div>
     <img 
     src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" 
     width="80" 
@@ -249,14 +249,13 @@ I'm writing: ...replace... ![Build
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SajjadAli54&theme=radical)
 
-## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadAli54&langs_count=8&layout=compact&theme=radical)
-
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
 - [Android Networking with Volley](https://dev.to/sajjadali/android-networking-with-volley-coi)
 - [Hello guys!](https://dev.to/sajjadali/hello-guys-4pp0)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏦 Projects
