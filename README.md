@@ -1,4 +1,5 @@
-<div id="text"></div>
+I'm writing: ...replace... ![Build
+
 <div id="header" align="center">
   <img 
     src="image/README/1671027853487.png" 
@@ -253,6 +254,7 @@
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Android Networking with Volley](https://dev.to/sajjadali/android-networking-with-volley-coi)
 - [Hello guys!](https://dev.to/sajjadali/hello-guys-4pp0)
 <!-- BLOG-POST-LIST:END -->
@@ -289,9 +291,3 @@
 <a href="https://github.com/SajjadAli54/java-tasks.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=java-tasks&theme=algolia" />
 </a>
-
-<script>
-  document.onload(() => {
-    document.getElementById("text").innerText = "Hello World!";
-  });
-</script>
