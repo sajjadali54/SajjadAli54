@@ -1,3 +1,4 @@
+<div id="text"></div>
 <div id="header" align="center">
   <img 
     src="image/README/1671027853487.png" 
@@ -289,3 +290,9 @@
 <a href="https://github.com/SajjadAli54/java-tasks.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=java-tasks&theme=algolia" />
 </a>
+
+<script>
+  document.onload(() => {
+    document.getElementById("text").innerText = "Hello World!";
+  });
+</script>
