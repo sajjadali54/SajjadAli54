@@ -3,12 +3,10 @@
     src="image/README/1671027853487.png" 
     width="100%" 
     height="200px"/>
-  <img 
-    src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes" 
-    width="100%"
-    alt="Quote Card"
-  />
-  <img 
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<img 
     src="https://readme-jokes.vercel.app/api" 
     width="100%"
     alt="Jokes Card" 
