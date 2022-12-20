@@ -1,3 +1,5 @@
+<script src="script.js"></script>
+
 <div id="header" align="center">
   <img 
     src="image/README/1671027853487.png" 
@@ -6,10 +8,40 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<img src="https://readme-jokes.vercel.app/api" width="100%" alt="Jokes Card" />
-
+  <img src="https://readme-jokes.vercel.app/api" width="100%" alt="Jokes Card" />
 </div>
+
 <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/sajjad-ali-b428b6198">
+    <img 
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCXfYIIBvk2e4H60BdKoznRA">
+    <img 
+      src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" 
+      alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/ali_imsajjad">
+    <img 
+      src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" 
+      alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/sajjadali786">
+    <img 
+      src = "https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" 
+      alt="Kaggle Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/sajjad_bscsf19">
+    <img 
+      src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" 
+      alt="Hackerrank Badge"/>
+  </a>
+  <a href="https://dev.to/sajjadali54">
+    <img 
+      src = "https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" 
+      alt="Dev Badge"/>
+  </a>
 
 </div>
 
@@ -40,7 +72,7 @@
 - 👨‍🎓 I received the Sindh Talent Hunt Scholarship by ranking in Top 300 for the year 2019 at Sukkur IBA University.
 - 🥇 I received the first ranking in Sindh Talent Hunt Scholarship foundation semester.
 - 🥇 I have also received a prize for being selected in top 10 rakings in Fibonacci mathematical event.
-- ☕ I have developed developed a CMS using java `<span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">` which is currently being used inside a school for data management.
+- ☕ I have developed developed a CMS using java <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> which is currently being used inside a school for data management.
 - 🌱 Exploring Technical Content Writing.
 - 💌 I love to listen music while coding.
 - ⚡ In my free time, I solve problems on Hackerrank and read tech articles, novels, stories, and poetry.
@@ -253,7 +285,3 @@
 <a href="https://github.com/SajjadAli54/java-tasks.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=java-tasks&theme=algolia" />
 </a>
-
-<script src="script.js">
-  
-</script>
