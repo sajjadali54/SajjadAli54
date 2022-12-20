@@ -6,7 +6,7 @@
     width="100%" 
     height="200px"/>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]
 
   <img src="https://readme-jokes.vercel.app/api" width="100%" alt="Jokes Card" />
 </div>
