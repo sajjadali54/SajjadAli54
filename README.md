@@ -1,9 +1,3 @@
-What I'm writing:
-
-- This will be replaced
-- This too!
-- This three!
-
 <div id="header" align="center">
   <img 
     src="image/README/1671027853487.png" 
@@ -12,7 +6,7 @@ What I'm writing:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-`<img src="https://readme-jokes.vercel.app/api" width="100%" alt="Jokes Card" />`
+<img src="https://readme-jokes.vercel.app/api" width="100%" alt="Jokes Card" />
 
 </div>
 <div id="badges" align="center">
