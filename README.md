@@ -254,6 +254,14 @@
 
 ## 🏦 Projects
 
+<a href="https://github.com/SajjadAli54/simplefolio.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=simplefolio&theme=algolia" />
+</a>
+
+<a href="https://github.com/SajjadAli54/countrycharm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=countrycharm&theme=algolia" />
+</a>
+
 <a href="https://github.com/SajjadAli54/cataract-classification.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=cataract-classification&theme=algolia" />
 </a>
@@ -283,4 +291,12 @@
 
 <a href="https://github.com/SajjadAli54/java-tasks.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=java-tasks&theme=algolia" />
+</a>
+
+<a href="https://github.com/SajjadAli54/cataract-classification.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=cataract-classification&theme=algolia" />
+</a>
+
+<a href="https://github.com/SajjadAli54/robofriends.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=robofriends&theme=algolia" />
 </a>
