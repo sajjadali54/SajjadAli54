@@ -240,9 +240,9 @@
 
 ## 🔥 My Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SajjadAli54&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SajjadAli54&show_icons=true&theme=blue-green)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SajjadAli54&theme=radical)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SajjadAli54&theme=blue-green)
 
 ## ✍️ Blog Posts
 
@@ -255,7 +255,7 @@
 ## 🏦 Projects
 
 <a href="https://github.com/SajjadAli54/simplefolio.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=simplefolio&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=simplefolio&theme=algolia"/>
 </a>
 
 <a href="https://github.com/SajjadAli54/countrycharm">
