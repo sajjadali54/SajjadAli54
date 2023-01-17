@@ -255,48 +255,48 @@
 ## 🏦 Projects
 
 <a href="https://github.com/SajjadAli54/simplefolio.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=simplefolio&theme=algolia"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=simplefolio&theme=algolia"/>
 </a>
 
 <a href="https://github.com/SajjadAli54/countrycharm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=countrycharm&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=countrycharm&theme=algolia" />
 </a>
 
 <a href="https://github.com/SajjadAli54/cataract-classification.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=cataract-classification&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=cataract-classification&theme=algolia" />
 </a>
 <a href="https://github.com/SajjadAli54/data-science.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=data-science&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=data-science&theme=algolia" />
 </a>
 
 <a href="https://github.com/SajjadAli54/android-material.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=android-material&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=android-material&theme=algolia" />
 </a>
 
 <a href="https://github.com/SajjadAli54/CSharp-Projects.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=CSharp-Projects&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=CSharp-Projects&theme=algolia" />
 </a>
 
 <a href="https://github.com/SajjadAli54/flutter-Projects.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=flutter-Projects&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=flutter-Projects&theme=algolia" />
 </a>
 
 <a href="https://github.com/SajjadAli54/flash-app.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=flash-app&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=flash-app&theme=algolia" />
 </a>
 
 <a href="https://github.com/SajjadAli54/data-structures.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=data-structures&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=data-structures&theme=algolia" />
 </a>
 
 <a href="https://github.com/SajjadAli54/java-tasks.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=java-tasks&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=java-tasks&theme=algolia" />
 </a>
 
 <a href="https://github.com/SajjadAli54/cataract-classification.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=cataract-classification&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=cataract-classification&theme=algolia" />
 </a>
 
 <a href="https://github.com/SajjadAli54/robofriends.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadAli54&repo=robofriends&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=robofriends&theme=algolia" />
 </a>
