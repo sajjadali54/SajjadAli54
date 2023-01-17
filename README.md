@@ -240,7 +240,7 @@
 
 ## 🔥 My Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SajjadAli54&show_icons=true&theme=blue-green)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SajjadAli54&show_icons=true&theme=blue-green)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SajjadAli54&theme=blue-green)
 
