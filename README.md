@@ -247,6 +247,7 @@
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MVVM Architecture in Android development](https://dev.to/sajjadali/mvvm-architecture-in-android-development-5eio)
 - [Android Networking with Volley](https://dev.to/sajjadali/android-networking-with-volley-coi)
 - [Hello guys!](https://dev.to/sajjadali/hello-guys-4pp0)
 <!-- BLOG-POST-LIST:END -->
