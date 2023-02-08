@@ -67,17 +67,7 @@
 
 ## 👨‍💻 About Me
 
-- 🧑‍ I am currently in final year of my bachelors in Computer Science with an overall CGPA of 3.62(almost 85%).
-- 👨‍🎓 I received the Sindh Talent Hunt Scholarship by ranking in Top 300 for the year 2019 at Sukkur IBA University.
-- 🥇 I received the first ranking in Sindh Talent Hunt Scholarship foundation semester.
-- 🥇 I have also received a prize for being selected in top 10 rakings in Fibonacci mathematical event.
-- ☕ I have developed developed a CMS using java <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> which is currently being used inside a school for data management.
-- 🌱 Exploring Technical Content Writing.
-- 💌 I love to listen music while coding.
-- ⚡ In my free time, I solve problems on Hackerrank and read tech articles, novels, stories, and poetry.
-- 🎗️ I am looking to work remotely.
-
----
+As a final semester CS student, I am a multi-talented individual with a passion for technology. I have achieved recognition for my academic excellence through the receipt of three scholarships: the STHP(Sindh Talent Hunt Program), EUSP(Ehsaas Undergraduate Scholarship program), and Institutional Merit Scholarship awarded by Sukkur IBA University. With a strong background in desktop application development using Java, C#, and web technologies, I have also honed my skills in mobile app development using Flutter and Android Studio with Kotlin. My passion for machine learning has also driven me to work on several projects in this field, and I am continuously expanding my knowledge in this area. I have also gained hands-on experience in decentralized app development using blockchain technology. Currently, I am exploring the exciting world of applied robotics and cloud computing technologies, constantly seeking new challenges and opportunities for growth.
 
 ## 🛠️ My Tech Stack
 
@@ -249,6 +239,7 @@
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Palindromes in C++](https://dev.to/sajjadali/palindrome-in-c-4po5)
 - [MVVM Architecture in Android development](https://dev.to/sajjadali/mvvm-architecture-in-android-development-5eio)
 - [Android Networking with Volley](https://dev.to/sajjadali/android-networking-with-volley-coi)
