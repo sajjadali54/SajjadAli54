@@ -1,12 +1,6 @@
-<div id="header" align="center">
-  <img 
-    src="image/README/1671027853487.png" 
-    width="100%" 
-    height="200px"/>
-
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![Readme Joke](https://readme-jokes.vercel.app/api)
+<!-- ![Readme Joke](https://readme-jokes.vercel.app/api) -->
 
 </div>
 
