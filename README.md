@@ -240,9 +240,11 @@
 
 ## 🔥 My Stats
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SajjadAli54&show_icons=true&theme=blue-green)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SajjadAli54&show_icons=true&theme=blue-green&count_private=true)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SajjadAli54&theme=blue-green)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadAli54&theme=blue-green&langs_count=8&layout=compact)]
 
 ## ✍️ Blog Posts
 
