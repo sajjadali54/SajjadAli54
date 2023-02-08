@@ -1,9 +1,3 @@
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<!-- ![Readme Joke](https://readme-jokes.vercel.app/api) -->
-
-</div>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sajjad-ali-b428b6198">
     <img 
@@ -37,6 +31,8 @@
   </a>
 
 </div>
+
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <p align="center">
   <img 
