@@ -71,50 +71,79 @@
 
 ## 🛠️ My Tech Stack
 
+### Mobile application development
+
 <div>
-  <div>
-  <img 
-    src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" 
-    title="C" 
+<img 
+    src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" 
+    title="Java" 
     width="80" 
-    height="30"/> 
-  <img 
-    src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" 
-    title="C#" 
+    height="30"/>
+<img 
+    src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" 
+    title="Kotlin" 
     width="80" 
-    height="30"/> 
-  <img 
-    src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" 
-    title="C++" 
-    width="80" 
-    height="30"/> 
-  <img 
-  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" 
-  title="CSS3" 
-  width="80" 
-  height="30"/> 
-  <img 
+    height="30"/>
+<img 
     src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" 
     title="DART" 
     width="80" 
-    height="30"/> 
-  <img 
-    src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" 
-    title="HTML" 
-    width="80" 
-    height="30"/> 
+    height="30"/>
+<img
+        src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"
+        width="80"
+        height="30"
+      />
+</div>
+
+### Machine learning
+
+<div>
+<img 
+      src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" 
+      title="Matplotlib" 
+      width="80" 
+      height="30"/>
+<img 
+      src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" 
+      title="Numpy" 
+      width="80" 
+      height="30"/>
+<img 
+      src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" 
+      title="Pandas" 
+      width="80" 
+      height="30"/>
+<img 
+      src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit-learn" 
+      width="80" 
+      height="30"/>
+<img 
+      src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" 
+      width="80" 
+      height="30"/>
+</div>
+
+### Desktop Apps
+
+<div>
   <img 
     src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" 
     title="Java" 
     width="80" 
     height="30"/> 
   <img 
-    src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="Javascript" 
+    src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" 
+    title="C#" 
     width="80" 
-    height="30"/> 
+    height="30"/>
+  <img
+    src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"
+    width="80"
+    height="30"/>
   <img 
-    src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" 
-    title="Kotlin" 
+    src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" 
+    title="C++" 
     width="80" 
     height="30"/>
   <img 
@@ -123,110 +152,106 @@
     width="80" 
     height="30"/>
   <img 
-    src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" 
-    title="Solidity" 
+    src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" 
+    title="C" 
     width="80" 
     height="30"/>
-  </div>
+</div>
+
+### Web
 
 <div>
-    <img 
-      src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" 
-      title="Matplotlib" 
-      width="80" 
-      height="30"/>
-    <img 
-      src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" 
-      title="Numpy" 
-      width="80" 
-      height="30"/>
-    <img 
-      src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" 
-      title="Pandas" 
-      width="80" 
-      height="30"/>
-    <img 
-      src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit-learn" 
-      width="80" 
-      height="30"/>
-    <img 
-      src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" 
-      width="80" 
-      height="30"/>
-    <img 
+<img 
+    src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="Javascript" 
+    width="80" 
+    height="30"/>
+<img 
+    src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" 
+    title="HTML" 
+    width="80" 
+    height="30"/> 
+<img 
+  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" 
+  title="CSS3" 
+  width="80" 
+  height="30"/>
+<img
+  src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+  width="80"
+  height="30"/>
+<img 
       src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" 
       width="80" 
       height="30"
     />
-    </div>
-    <div>
-      <img 
-        src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" 
-        width="80" 
-        height="30"
-      />
-      <img 
-        src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" 
-        width="80"
-        height="30"/>
-      <img 
-        src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" 
-        width="80" 
-        height="30"/>
-      <img 
-        src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" 
-        width="80" 
-        height="30"/>
-      <img 
-        src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" 
-        width="80" 
-        height="30"/>
-      <img 
-        src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" 
-        width="80" 
-        height="30"
-      />
-      <img 
-        src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" 
-        width="80" 
-        height="30"
-      />
-    </div>
+
+</div>
+
+### Blockchain
 
 <div>
-    <img 
-    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" 
+<img 
+    src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" 
+    title="Solidity" 
     width="80" 
     height="30"/>
-    <img 
-    src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" 
-    width="80" 
+<img
+        src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"
+        width="80"
+        height="30"
+      />
+</div>
+
+### Databases
+
+<div>
+<img
+  src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
+  width="80"
+  height="30"/>
+<img
+  src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"
+  width="80"
+  height="30"/>
+<img 
+  src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" 
+  width="80"
+  height="30"/>
+</div>
+
+### Paltforms and Tools
+
+<div>
+<img
+    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+    width="80"
+    height="30"/>
+<img
+    src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"
+    width="80"
     height="30"
     />
-   <img 
+<img 
     src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" 
     width="80" 
     height="30"
     />
-    <img 
+<img 
       src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" 
       width="80" 
       height="30"
     />
-    <img 
+<img 
       src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" 
       width="80" 
       height="30"
     />
-    <img 
+<img 
       src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" 
       width="80" 
       height="30"
     />
-  </div>
 </div>
-
----
 
 ## 🔥 My Stats
 
@@ -244,6 +269,7 @@
 - [MVVM Architecture in Android development](https://dev.to/sajjadali/mvvm-architecture-in-android-development-5eio)
 - [Android Networking with Volley](https://dev.to/sajjadali/android-networking-with-volley-coi)
 - [Hello guys!](https://dev.to/sajjadali/hello-guys-4pp0)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏦 Projects
