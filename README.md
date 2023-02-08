@@ -67,11 +67,11 @@
 
 ## 👨‍💻 About Me
 
-### As a driven and ambitious final-semester CS undergraduate, I am dedicated to pushing the boundaries of technology. My unwavering commitment to academic excellence has earned me prestigious recognition through three scholarships: STHP, Ehsaas, and Institutional Merit Scholarship. With a diverse skill set in desktop development, utilizing Java, C# and web technologies, I have seamlessly transitioned into the realm of mobile app development, expertly crafting solutions using Flutter and Android Studio with Kotlin. Fueled by my passion for machine learning, I have actively pursued projects that challenge and inspire me, expanding my knowledge and skills in this exciting field. I am also well-versed in decentralized app development, harnessing the power of blockchain technology to bring innovative solutions to life. Currently, I am diving into the fascinating world of applied robotics, Cyber Security and cloud computing, constantly seeking new opportunities to grow and make an impact.
+As a driven and ambitious final-semester CS undergraduate, I am dedicated to pushing the boundaries of technology. My unwavering commitment to academic excellence has earned me prestigious recognition through three scholarships: STHP, Ehsaas, and Institutional Merit Scholarship. With a diverse skill set in desktop development, utilizing Java, C# and web technologies, I have seamlessly transitioned into the realm of mobile app development, expertly crafting solutions using Flutter and Android Studio with Kotlin. Fueled by my passion for machine learning, I have actively pursued projects that challenge and inspire me, expanding my knowledge and skills in this exciting field. I am also well-versed in decentralized app development, harnessing the power of blockchain technology to bring innovative solutions to life. Currently, I am diving into the fascinating world of applied robotics, Cyber Security and cloud computing, constantly seeking new opportunities to grow and make an impact.
 
 ## 🛠️ My Tech Stack
 
-### Mobile application development
+### 💻 Mobile application development
 
 <div>
 <img 
@@ -96,7 +96,7 @@
       />
 </div>
 
-### Machine learning
+### 🧮 Machine learning
 
 <div>
 <img 
@@ -124,7 +124,7 @@
       height="30"/>
 </div>
 
-### Desktop Apps
+### 🖥️ Desktop Apps
 
 <div>
   <img 
@@ -158,7 +158,7 @@
     height="30"/>
 </div>
 
-### Web
+### 🕸️ Web
 
 <div>
 <img 
@@ -187,7 +187,7 @@
 
 </div>
 
-### Blockchain
+### 🥅 Blockchain
 
 <div>
 <img 
@@ -202,7 +202,7 @@
       />
 </div>
 
-### Databases
+### 🏪 Databases
 
 <div>
 <img
@@ -219,7 +219,7 @@
   height="30"/>
 </div>
 
-### Paltforms and Tools
+### :atom:Paltforms and Tools
 
 <div>
 <img
