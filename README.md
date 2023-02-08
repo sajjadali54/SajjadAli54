@@ -219,7 +219,7 @@ As a driven and ambitious final-semester CS undergraduate, I am dedicated to pus
   height="30"/>
 </div>
 
-### :atom:Paltforms and Tools
+### :atom: Paltforms and Tools
 
 <div>
 <img
