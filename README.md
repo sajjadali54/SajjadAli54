@@ -56,13 +56,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## :boy: About Me
 
-As a driven and ambitious final-semester CS undergraduate, I am dedicated to pushing the boundaries of technology. My unwavering commitment to academic excellence has earned me prestigious recognition through three scholarships: STHP, Ehsaas, and Institutional Merit Scholarship. With a diverse skill set in desktop development, utilizing Java, C# and web technologies, I have seamlessly transitioned into the realm of mobile app development, expertly crafting solutions using Flutter and Android Studio with Kotlin. Fueled by my passion for machine learning, I have actively pursued projects that challenge and inspire me, expanding my knowledge and skills in this exciting field. I am also well-versed in decentralized app development, harnessing the power of blockchain technology to bring innovative solutions to life. Currently, I am diving into the fascinating world of applied robotics, Cyber Security and cloud computing, constantly seeking new opportunities to grow and make an impact.
+As a driven and ambitious final-semester CS undergraduate :man_student:, I am dedicated to pushing the boundaries of technology :gem:. My unwavering commitment to academic excellence has earned me prestigious recognition through three scholarships: STHP, Ehsaas, and Institutional Merit Scholarship. With a diverse skill set in desktop development :computer:, utilizing Java, C# and web technologies, I have seamlessly transitioned into the realm of mobile app development :iphone:, expertly crafting solutions using Flutter and Android Studio with Kotlin. Fueled by my passion for machine learning :chart_with_downwards_trend:, I have actively pursued projects that challenge and inspire me, expanding my knowledge and skills in this exciting field. I am also well-versed in decentralized app development :key:, harnessing the power of blockchain technology :ledger: to bring innovative solutions to life. Currently, I am diving into the fascinating world of applied robotics :robot:, Cyber Security :computer: and cloud computing :cloud:, constantly seeking new opportunities to grow and make an impact.
 
 ## 🛠️ My Tech Stack
 
-### 💻 Mobile application development
+### :iphone: Mobile application development
 
 <div>
 <img 
@@ -87,7 +87,7 @@ As a driven and ambitious final-semester CS undergraduate, I am dedicated to pus
       />
 </div>
 
-### 🧮 Machine learning
+### :chart_with_upwards_trend: Machine learning
 
 <div>
 <img 
@@ -178,7 +178,7 @@ As a driven and ambitious final-semester CS undergraduate, I am dedicated to pus
 
 </div>
 
-### 🥅 Blockchain
+### :key: Blockchain
 
 <div>
 <img 
@@ -210,7 +210,7 @@ As a driven and ambitious final-semester CS undergraduate, I am dedicated to pus
   height="30"/>
 </div>
 
-### :atom: Paltforms and Tools
+### :octocat: Paltforms and Tools
 
 <div>
 <img
@@ -255,6 +255,7 @@ As a driven and ambitious final-semester CS undergraduate, I am dedicated to pus
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Palindromes in C++](https://dev.to/sajjadali/palindrome-in-c-4po5)
 - [MVVM Architecture in Android development](https://dev.to/sajjadali/mvvm-architecture-in-android-development-5eio)
 - [Android Networking with Volley](https://dev.to/sajjadali/android-networking-with-volley-coi)
