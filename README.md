@@ -30,16 +30,17 @@
       alt="Dev Badge"/>
   </a>
 
-</div>
-
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<p align="center">
+  <p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=SajjadAli54&style=flat-square&color=blue" 
     alt="profile views"/>
 </p>
 
+</div>
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+
+</div>
 <h1 align="center">
   Hey There
   <img 
