@@ -91,11 +91,6 @@ As a driven and ambitious final-semester CS undergraduate :man_student:, I am de
 
 <div>
 <img 
-      src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" 
-      title="Matplotlib" 
-      width="80" 
-      height="30"/>
-<img 
       src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" 
       title="Numpy" 
       width="80" 
@@ -106,11 +101,40 @@ As a driven and ambitious final-semester CS undergraduate :man_student:, I am de
       width="80" 
       height="30"/>
 <img 
+      src="https://img.shields.io/badge/pandas-profiling-%23ffffff.svg?style=for-the-badge&logo=pandas-profiling" 
+      title="Pandas Profiling" 
+      width="80" 
+      height="30"/>
+<img
+  src = "https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"
+  width="80"
+  heigh="30"
+  >
+  <img
+  src = "https://img.shields.io/badge/Sympy-%230C55A5.svg?style=for-the-badge&logo=sympy&logoColor=%white"
+  width="80"
+  heigh="30"
+  >
+<img 
+      src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" 
+      title="Matplotlib" 
+      width="80" 
+      height="30"/>
+<img 
       src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit-learn" 
       width="80" 
       height="30"/>
 <img 
+      src="https://img.shields.io/badge/imbalanced-learn-%23ffffff.svg?style=for-the-badge&logo=imbalanced-learn" 
+      title="Pandas Profiling" 
+      width="80" 
+      height="30"/>
+<img 
       src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" 
+      width="80" 
+      height="30"/>
+<img 
+      src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" 
       width="80" 
       height="30"/>
 </div>
@@ -223,7 +247,22 @@ As a driven and ambitious final-semester CS undergraduate :man_student:, I am de
     height="30"
     />
 <img 
+      src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" 
+      width="80" 
+      height="30"
+    />
+<img 
     src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" 
+    width="80" 
+    height="30"
+    />
+<img 
+    src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" 
+    width="80" 
+    height="30"
+    />
+<img 
+    src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white" 
     width="80" 
     height="30"
     />
@@ -242,6 +281,11 @@ As a driven and ambitious final-semester CS undergraduate :man_student:, I am de
       width="80" 
       height="30"
     />
+<img
+  src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"
+  width="80"
+  heigh="30"
+  >
 </div>
 
 ## 🔥 My Stats
@@ -255,6 +299,7 @@ As a driven and ambitious final-semester CS undergraduate :man_student:, I am de
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Palindromes in C++](https://dev.to/sajjadali/palindrome-in-c-4po5)
 - [MVVM Architecture in Android development](https://dev.to/sajjadali/mvvm-architecture-in-android-development-5eio)
 - [Android Networking with Volley](https://dev.to/sajjadali/android-networking-with-volley-coi)
