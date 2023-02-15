@@ -64,16 +64,8 @@ As a driven and ambitious final-semester CS undergraduate :man_student:, I am de
 ## :violin: TechTunes
 
 <div>
-  <a 
-    href="https://www.youtube.com/watch?v=ldoUWU6z4V0" 
-    target="_blank">
-      <img 
-        src="http://img.youtube.com/vi/ldoUWU6z4V0/0.jpg" 
-        alt="ChatGPT" 
-        width="240" 
-        height="180" 
-        border="10" />
-  </a>
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 </div>
 
 ---
@@ -317,6 +309,7 @@ As a driven and ambitious final-semester CS undergraduate :man_student:, I am de
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Palindromes in C++](https://dev.to/sajjadali/palindrome-in-c-4po5)
 - [MVVM Architecture in Android development](https://dev.to/sajjadali/mvvm-architecture-in-android-development-5eio)
 - [Android Networking with Volley](https://dev.to/sajjadali/android-networking-with-volley-coi)
