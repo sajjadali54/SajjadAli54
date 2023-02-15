@@ -311,7 +311,6 @@ As a driven and ambitious final-semester CS undergraduate :man_student:, I am de
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Palindromes in C++](https://dev.to/sajjadali/palindrome-in-c-4po5)
 - [MVVM Architecture in Android development](https://dev.to/sajjadali/mvvm-architecture-in-android-development-5eio)
 - [Android Networking with Volley](https://dev.to/sajjadali/android-networking-with-volley-coi)
