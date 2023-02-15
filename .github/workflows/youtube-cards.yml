@@ -10,5 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
+        id: youtube-cards
         with:
           channel_id: UCXfYIIBvk2e4H60BdKoznRA
