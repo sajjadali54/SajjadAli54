@@ -59,6 +59,25 @@
 
 As a driven and ambitious final-semester CS undergraduate :man_student:, I am dedicated to pushing the boundaries of technology :gem:. My unwavering commitment to academic excellence has earned me prestigious recognition through three scholarships: STHP, Ehsaas, and Institutional Merit Scholarship. With a diverse skill set in desktop development :computer:, utilizing Java, C# and web technologies, I have seamlessly transitioned into the realm of mobile app development :iphone:, expertly crafting solutions using Flutter and Android Studio with Kotlin. Fueled by my passion for machine learning :chart_with_downwards_trend:, I have actively pursued projects that challenge and inspire me, expanding my knowledge and skills in this exciting field. I am also well-versed in decentralized app development :key:, harnessing the power of blockchain technology :ledger: to bring innovative solutions to life. Currently, I am diving into the fascinating world of applied robotics :robot:, Cyber Security :computer: and cloud computing :cloud:, constantly seeking new opportunities to grow and make an impact.
 
+---
+
+## :violin: TechTunes
+
+<div>
+  <a 
+    href="https://www.youtube.com/watch?v=ldoUWU6z4V0" 
+    target="_blank">
+      <img 
+        src="http://img.youtube.com/vi/ldoUWU6z4V0/0.jpg" 
+        alt="ChatGPT" 
+        width="240" 
+        height="180" 
+        border="10" />
+  </a>
+</div>
+
+---
+
 ## 🛠️ My Tech Stack
 
 ### :iphone: Mobile application development
