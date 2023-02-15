@@ -53,18 +53,6 @@
     height="300"/>
 </div
 
-#
-
-Hey There
-![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-#
-
-Hey There
-![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
 ---
 
 ## 👦 About Me
