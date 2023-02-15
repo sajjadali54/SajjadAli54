@@ -30,7 +30,7 @@
       alt="Dev Badge"/>
   </a>
 
-  <p align="center">
+<p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=SajjadAli54&style=flat-square&color=blue" 
     alt="profile views"/>
@@ -51,26 +51,39 @@
     src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" 
     width="600" 
     height="300"/>
-</div>
+</div
+
+#
+
+Hey There
+![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+#
+
+Hey There
+![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 ---
 
-## :boy: About Me
+## 👦 About Me
 
-As a driven and ambitious final-semester CS undergraduate :man_student:, I am dedicated to pushing the boundaries of technology :gem:. My unwavering commitment to academic excellence has earned me prestigious recognition through three scholarships: STHP, Ehsaas, and Institutional Merit Scholarship. With a diverse skill set in desktop development :computer:, utilizing Java, C# and web technologies, I have seamlessly transitioned into the realm of mobile app development :iphone:, expertly crafting solutions using Flutter and Android Studio with Kotlin. Fueled by my passion for machine learning :chart_with_downwards_trend:, I have actively pursued projects that challenge and inspire me, expanding my knowledge and skills in this exciting field. I am also well-versed in decentralized app development :key:, harnessing the power of blockchain technology :ledger: to bring innovative solutions to life. Currently, I am diving into the fascinating world of applied robotics :robot:, Cyber Security :computer: and cloud computing :cloud:, constantly seeking new opportunities to grow and make an impact.
+As a driven and ambitious final-semester CS undergraduate 👨‍🎓, I am dedicated to pushing the boundaries of technology 💎. My unwavering commitment to academic excellence has earned me prestigious recognition through three scholarships: STHP, Ehsaas, and Institutional Merit Scholarship. With a diverse skill set in desktop development 💻, utilizing Java, C# and web technologies, I have seamlessly transitioned into the realm of mobile app development 📱, expertly crafting solutions using Flutter and Android Studio with Kotlin. Fueled by my passion for machine learning 📉, I have actively pursued projects that challenge and inspire me, expanding my knowledge and skills in this exciting field. I am also well-versed in decentralized app development 🔑, harnessing the power of blockchain technology 📒 to bring innovative solutions to life. Currently, I am diving into the fascinating world of applied robotics 🤖, Cyber Security 💻 and cloud computing ☁️, constantly seeking new opportunities to grow and make an impact.
 
 ---
 
-## :violin: TechTunes
+## 🎻 TechTunes
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 <!-- END YOUTUBE-CARDS -->
 
 ---
 
 ## 🛠️ My Tech Stack
 
-### :iphone: Mobile application development
+### 📱 Mobile application development
 
 <div>
 <img 
@@ -95,7 +108,7 @@ As a driven and ambitious final-semester CS undergraduate :man_student:, I am de
       />
 </div>
 
-### :chart_with_upwards_trend: Machine learning
+### 📈 Machine learning
 
 <div>
 <img 
@@ -210,7 +223,7 @@ As a driven and ambitious final-semester CS undergraduate :man_student:, I am de
 
 </div>
 
-### :key: Blockchain
+### 🔑 Blockchain
 
 <div>
 <img 
@@ -312,6 +325,7 @@ As a driven and ambitious final-semester CS undergraduate :man_student:, I am de
 - [MVVM Architecture in Android development](https://dev.to/sajjadali/mvvm-architecture-in-android-development-5eio)
 - [Android Networking with Volley](https://dev.to/sajjadali/android-networking-with-volley-coi)
 - [Hello guys!](https://dev.to/sajjadali/hello-guys-4pp0)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏦 Projects
