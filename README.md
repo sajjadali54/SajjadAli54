@@ -63,16 +63,8 @@ As a driven and ambitious final-semester CS undergraduate :man_student:, I am de
 
 ## :violin: TechTunes
 
-<div>
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Uncovering the Dark Side of Social Engineering: How Hackers Manipulate Your Mind](https://ytcards.demolab.com/?id=Q3p9XcAwobU&title=Uncovering+the+Dark+Side+of+Social+Engineering%3A+How+Hackers+Manipulate+Your+Mind&lang=en&timestamp=1676397219&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Uncovering the Dark Side of Social Engineering: How Hackers Manipulate Your Mind")](https://www.youtube.com/watch?v=Q3p9XcAwobU)
-[![Yaqeen kr Bhai ye bowlers hi hain 🥵♥️😍360p1](https://ytcards.demolab.com/?id=1e_R1mlhFF4&title=Yaqeen+kr+Bhai+ye+bowlers+hi+hain+%F0%9F%A5%B5%E2%99%A5%EF%B8%8F%F0%9F%98%8D360p1&lang=en&timestamp=1676299744&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Yaqeen kr Bhai ye bowlers hi hain 🥵♥️😍360p1")](https://www.youtube.com/watch?v=1e_R1mlhFF4)
-[![ضدی ہوں مگر تم جو پکارو🖤 | The Beauty of Urdu Poetry: جان حاضر, غرور مسمار](https://ytcards.demolab.com/?id=wZ_hgJsoOQo&title=%D8%B6%D8%AF%DB%8C+%DB%81%D9%88%DA%BA+%D9%85%DA%AF%D8%B1+%D8%AA%D9%85+%D8%AC%D9%88+%D9%BE%DA%A9%D8%A7%D8%B1%D9%88%F0%9F%96%A4+%7C+The+Beauty+of+Urdu+Poetry%3A+%D8%AC%D8%A7%D9%86+%D8%AD%D8%A7%D8%B6%D8%B1%2C+%D8%BA%D8%B1%D9%88%D8%B1+%D9%85%D8%B3%D9%85%D8%A7%D8%B1&lang=en&timestamp=1676299318&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "ضدی ہوں مگر تم جو پکارو🖤 | The Beauty of Urdu Poetry: جان حاضر, غرور مسمار")](https://www.youtube.com/watch?v=wZ_hgJsoOQo)
-[![Na tha kuch to khuda tha | Kuch na hota to khuda hota](https://ytcards.demolab.com/?id=TZzNhU_mhtQ&title=Na+tha+kuch+to+khuda+tha+%7C+Kuch+na+hota+to+khuda+hota&lang=en&timestamp=1676298267&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Na tha kuch to khuda tha | Kuch na hota to khuda hota")](https://www.youtube.com/watch?v=TZzNhU_mhtQ)
-[![Tadahn tokhe pyaari wisaare chhadeendas | Beautiful sindhi song](https://ytcards.demolab.com/?id=Ddb_xIDYn88&title=Tadahn+tokhe+pyaari+wisaare+chhadeendas+%7C+Beautiful+sindhi+song&lang=en&timestamp=1676297119&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Tadahn tokhe pyaari wisaare chhadeendas | Beautiful sindhi song")](https://www.youtube.com/watch?v=Ddb_xIDYn88)
-[![Stay Safe Online: An Introduction to Cyber Security](https://ytcards.demolab.com/?id=D-tfsdiJ2SU&title=Stay+Safe+Online%3A+An+Introduction+to+Cyber+Security&lang=en&timestamp=1676227462&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Stay Safe Online: An Introduction to Cyber Security")](https://www.youtube.com/watch?v=D-tfsdiJ2SU)
 <!-- END YOUTUBE-CARDS -->
-</div>
 
 ---
 
