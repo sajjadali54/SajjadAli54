@@ -37,25 +37,12 @@
 </p>
 
 </div>
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-</div>
-<h1 align="center">
-  Hey There
+<h2 align="center">
+  Hey There! I am Sajjad Ali
   <img 
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
     width="40px"/>
-</h1>
-<div align="center">
-  <img 
-    src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" 
-    width="600" 
-    height="300"/>
-</div
-
----
-
-## 👦 About Me
+</h2>
 
 As a driven and ambitious final-semester CS undergraduate 👨‍🎓, I am dedicated to pushing the boundaries of technology 💎. My unwavering commitment to academic excellence has earned me prestigious recognition through three scholarships: STHP, Ehsaas, and Institutional Merit Scholarship. With a diverse skill set in desktop development 💻, utilizing Java, C# and web technologies, I have seamlessly transitioned into the realm of mobile app development 📱, expertly crafting solutions using Flutter and Android Studio with Kotlin. Fueled by my passion for machine learning 📉, I have actively pursued projects that challenge and inspire me, expanding my knowledge and skills in this exciting field. I am also well-versed in decentralized app development 🔑, harnessing the power of blockchain technology 📒 to bring innovative solutions to life. Currently, I am diving into the fascinating world of applied robotics 🤖, Cyber Security 💻 and cloud computing ☁️, constantly seeking new opportunities to grow and make an impact.
 
@@ -203,21 +190,6 @@ As a driven and ambitious final-semester CS undergraduate 👨‍🎓, I am dedi
 
 </div>
 
-### 🔑 Blockchain
-
-<div>
-<img 
-    src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" 
-    title="Solidity" 
-    width="80" 
-    height="30"/>
-<img
-        src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"
-        width="80"
-        height="30"
-      />
-</div>
-
 ### 🏪 Databases
 
 <div>
@@ -306,52 +278,3 @@ As a driven and ambitious final-semester CS undergraduate 👨‍🎓, I am dedi
 - [Android Networking with Volley](https://dev.to/sajjadali/android-networking-with-volley-coi)
 - [Hello guys!](https://dev.to/sajjadali/hello-guys-4pp0)
 <!-- BLOG-POST-LIST:END -->
-
-## 🏦 Projects
-
-<a href="https://github.com/SajjadAli54/simplefolio.git">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=simplefolio&theme=algolia"/>
-</a>
-
-<a href="https://github.com/SajjadAli54/countrycharm">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=countrycharm&theme=algolia" />
-</a>
-
-<a href="https://github.com/SajjadAli54/cataract-classification.git">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=cataract-classification&theme=algolia" />
-</a>
-<a href="https://github.com/SajjadAli54/data-science.git">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=data-science&theme=algolia" />
-</a>
-
-<a href="https://github.com/SajjadAli54/android-material.git">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=android-material&theme=algolia" />
-</a>
-
-<a href="https://github.com/SajjadAli54/CSharp-Projects.git">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=CSharp-Projects&theme=algolia" />
-</a>
-
-<a href="https://github.com/SajjadAli54/flutter-Projects.git">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=flutter-Projects&theme=algolia" />
-</a>
-
-<a href="https://github.com/SajjadAli54/flash-app.git">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=flash-app&theme=algolia" />
-</a>
-
-<a href="https://github.com/SajjadAli54/data-structures.git">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=data-structures&theme=algolia" />
-</a>
-
-<a href="https://github.com/SajjadAli54/java-tasks.git">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=java-tasks&theme=algolia" />
-</a>
-
-<a href="https://github.com/SajjadAli54/cataract-classification.git">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=cataract-classification&theme=algolia" />
-</a>
-
-<a href="https://github.com/SajjadAli54/robofriends.git">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SajjadAli54&repo=robofriends&theme=algolia" />
-</a>
