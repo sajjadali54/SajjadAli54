@@ -44,7 +44,6 @@
     width="40px"/>! I am Sajjad Ali
 </h2>
 
-- Data Analyst at NoeDocto Inc
 - As a driven and ambitious final-semester CS undergraduate 👨‍🎓, I am dedicated to pushing the boundaries of technology 💎.
 - My unwavering commitment to academic excellence has earned me prestigious recognition through three scholarships: STHP, Ehsaas, and Institutional Merit Scholarship.
 - With a diverse skill set in desktop development 💻, utilizing Java, C# and web technologies, I have seamlessly transitioned into the realm of mobile app development 📱, expertly crafting solutions using Flutter and Android Studio with Kotlin.
