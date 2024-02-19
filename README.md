@@ -44,10 +44,11 @@
     width="40px"/>! I am Sajjad Ali
 </h2>
 
-- As a driven and ambitious CS undergraduate 👨‍🎓, I am dedicated to pushing the boundaries of technology 💎.
-- Currently Doing `Research Thesis on FER(Facial Expression Recognition)` in NTNU, Norway on `NORPART-CONNECT` Program.
-- My unwavering commitment to academic excellence has earned me prestigious recognition through three scholarships: STHP, Ehsaas, and Institutional Merit Scholarship.
-- With a diverse skill set in desktop development 💻, utilizing Java, C# and web technologies, I have seamlessly transitioned into the realm of mobile app development 📱, expertly crafting solutions using Flutter and Android Studio with Kotlin.
+- Driven and ambitious CS undergraduate committed to pushing the boundaries of technology and driving innovation.
+- Completed a Research Thesis on Facial Expression Recognition (FER) at NTNU, Norway, as part of the prestigious NORPART-CONNECT Program, demonstrating a strong research aptitude and cross-cultural collaboration skills.
+- Recognized for academic excellence with three scholarships: STHP, Ehsaas, and Institutional Merit Scholarship, highlighting a dedication to learning and achieving outstanding results.
+- Proficient in desktop development, with expertise in Java, C#, and web technologies, seamlessly transitioning into mobile app development using Flutter and Android Studio with Kotlin, showcasing versatility and adaptability in technology stacks.
+- Enriched by extensive international exposure through travel experiences across Italy, Poland, Czech Republic, and Austria, fostering a deep appreciation for diverse cultures and global perspectives.
 ---
 
 ## 🛠️ My Tech Stack
