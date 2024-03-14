@@ -275,8 +275,8 @@
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Memento Design Pattern](https://dev.to/sajjadali/memento-design-pattern-4b64)
 - [Palindromes in C++](https://dev.to/sajjadali/palindrome-in-c-4po5)
 - [MVVM Architecture in Android development](https://dev.to/sajjadali/mvvm-architecture-in-android-development-5eio)
 - [Android Networking with Volley](https://dev.to/sajjadali/android-networking-with-volley-coi)
-- [Hello guys!](https://dev.to/sajjadali/hello-guys-4pp0)
 <!-- BLOG-POST-LIST:END -->
