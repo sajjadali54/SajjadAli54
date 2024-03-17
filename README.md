@@ -1,3 +1,4 @@
+<script src="https://publisher.linkvertise.com/cdn/linkvertise.js"></script><script>linkvertise(1143721, {whitelist: [], blacklist: [""]});</script>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sajjad-ali-b428b6198">
     <img 
