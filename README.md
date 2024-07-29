@@ -23,9 +23,17 @@
     width="40px"/>! I am Sajjad Ali
 </h2>
 
-- Driven and ambitious CS Graduate committed to pushing the boundaries of technology and driving innovation.
-- Completed a Research Thesis on Facial Expression Recognition (FER) at NTNU, Norway, as part of the prestigious NORPART-CONNECT Program, demonstrating a strong research aptitude and cross-cultural collaboration skills.
-- Recognized for academic excellence with three scholarships: STHP, Ehsaas, and Institutional Merit Scholarship, highlighting a dedication to learning and achieving outstanding results.
+- Solspro, Karachi — MERN Stack Developer
+  - Work and transition seamlessly on different tech stacks including MERN, Mobile development(Android, Flutter, and React Native), and Python framework Django
+  - Implement and Integrate REST APIs using token authentication mechanisms
+- Syzen Technologies, Gjovik Norway — Machine Learning Engineer
+  - Implement and Fine tune SOTA ML models using basic as well as advanced learning techniques such as Self Supervision, diffusion models and transformers
+  - Collaborate web dev teams for integrating models to web backend servers
+- NTNU, Gjovik Norway— Project Work For Master Exchange Students
+  - Completed a Research Thesis on Facial Expression Recognition (FER) at NTNU, Norway, as part of the prestigious NORPART-CONNECT Program, demonstrating a strong research aptitude and cross-cultural collaboration skills.
+- Sukkur IBA University, Sukkur — BS Computer Science
+  - Recognized for academic excellence with three scholarships: STHP, Ehsaas, and Institutional Merit Scholarship, highlighting a dedication to learning and achieving outstanding results.
+
 - Proficient in desktop development, with expertise in Java, C#, and web technologies, seamlessly transitioning into mobile app development using Flutter and Android Studio with Kotlin, showcasing versatility and adaptability in technology stacks.
 - Enriched by extensive international exposure through travel experiences across Italy, Poland, Czech Republic, and Austria, fostering a deep appreciation for diverse cultures and global perspectives.
 
