@@ -23,6 +23,7 @@
     width="40px"/>! I am Sajjad Ali
 </h2>
 
+- Badri Management Consultancy, Karachi — Software Developer Developer
 - Solspro, Karachi — MERN Stack Developer
   - Work and transition seamlessly on different tech stacks including MERN, Mobile development(Android, Flutter, and React Native), and Python framework Django
   - Implement and Integrate REST APIs using token authentication mechanisms
