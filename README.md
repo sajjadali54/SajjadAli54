@@ -24,19 +24,27 @@
 </h2>
 
 - Badri Management Consultancy, Karachi — Software Developer
+  - Work on dynamic front-end user interfaces using modern web technologies
+  - Integrate front-end components with back-end scripts and machine learning
+models to ensure data flow and function
+  - Optimize and maintain desktop applications using frameworks such as
+Electron, Python, PYQT or Tkinter
+  - Debut and test code to ensure performance and functionality
+
 - Solspro, Karachi — MERN Stack Developer
   - Work and transition seamlessly on different tech stacks including MERN, Mobile development(Android, Flutter, and React Native), and Python framework Django
   - Implement and Integrate REST APIs using token authentication mechanisms
-- Syzen Technologies, Gjovik Norway — Machine Learning Engineer
-  - Implement and Fine tune SOTA ML models using basic as well as advanced learning techniques such as Self Supervision, diffusion models and transformers
-  - Collaborate web dev teams for integrating models to web backend servers
+
 - NTNU, Gjovik Norway— Project Work For Master Exchange Students
+  - Implement and Fine-tune SOTA ML models using basic as well as advanced learning techniques such as Self Supervision, diffusion models and transformers
   - Completed a Research Thesis on Facial Expression Recognition (FER) at NTNU, Norway, as part of the prestigious NORPART-CONNECT Program, demonstrating a strong research aptitude and cross-cultural collaboration skills.
+
 - Sukkur IBA University, Sukkur — BS Computer Science
   - Recognized for academic excellence with three scholarships: STHP, Ehsaas, and Institutional Merit Scholarship, highlighting a dedication to learning and achieving outstanding results.
 
 - Proficient in desktop development, with expertise in Java, C#, and web technologies, seamlessly transitioning into mobile app development using Flutter and Android Studio with Kotlin, showcasing versatility and adaptability in technology stacks.
-- Enriched by extensive international exposure through travel experiences across Italy, Poland, Czech Republic, and Austria, fostering a deep appreciation for diverse cultures and global perspectives.
+
+- Enriched by extensive international exposure through travel experiences across Italy, Poland, the Czech Republic, and Austria, fostering a deep appreciation for diverse cultures and global perspectives.
 
 ---
 
