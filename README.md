@@ -83,7 +83,10 @@ Electron, Python, PYQT or Tkinter
 ### Desktop App Development
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-![PyQt]()
+![PyQt Badge](https://img.shields.io/badge/PyQt-v5%20%7C%20v6-green)
+![Java Swing Badge](https://img.shields.io/badge/Java%20Swing-GUI%20Framework-blue)
+
+
 
 
 ### :ledger: ORM
