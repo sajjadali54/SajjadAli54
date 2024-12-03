@@ -44,9 +44,9 @@
 | **Backend**           | Node.js, Express, Django, FastAPI, Spring Boot, .NET                                                |
 | **Mobile Development**| Android Studio, Flutter, React Native                                                               |
 | **Desktop Development**| PyQt, Java Swing, C#                                                                               |
-| **Programming**       | Python, JavaScript, Java, C#, Dart, Kotlin, R, C, C++                                               |
+| **Programming Languages**       | Python, JavaScript, Java, C#, Dart, Kotlin, R, C, C++                                               |
 | **Databases**         | MongoDB, MySQL, SQLite                                                                              |
-| **ORM**               | Prisma                                                                                              |
+| **ORM/ODM**               | Prisma, SqlAlchemy, Entity Framework, Mongoose                                                                                              |
 | **Hosting**           | Firebase, GitHub Pages, Heroku, Netlify                                                            |
 | **IDEs/Editors**      | VS Code, IntelliJ IDEA, Jupyter Notebook, Android Studio, Vim, Visual Studio                       |
 | **OS**                | Linux (Ubuntu, Debian, Kali), Windows                                                              |
