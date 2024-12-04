@@ -19,22 +19,24 @@
 
 ## 🚀 About Me
 
-- **Badri Management Consultancy, Karachi** — Software Developer
+- **Badri Management Consultancy, Karachi** — Software Developer (Nov 04, 2024 - Present)
 
   - Front-end & back-end integration, machine learning model integration.
   - Optimized desktop apps using Electron, PyQt, and Tkinter.
+  - IFRS 17 Life and Non Life Insurance Models implementation in Python.
 
-- **Solspro, Karachi** — MERN Stack Developer
+- **Solspro, Karachi** — MERN Stack Developer (July 11, 2024 - Oct 03, 2024)
 
   - Developed web & mobile apps with seamless transitions between tech stacks.
   - Implemented REST APIs with token authentication.
 
-- **NTNU, Norway** — Master Exchange Project
+- **NTNU, Norway** — Master Exchange Project (Aug 08, 2023 - Feb 24, 2024)
 
   - Research on advanced ML models (diffusion, transformers, FER).
 
-- **Sukkur IBA University, Sukkur** — BS Computer Science
-  - Awarded multiple scholarships for academic excellence.
+- **Sukkur IBA University, Sukkur** — BS Computer Science (Batch 2019-2023)
+  - Silver Medalist in CS Department for getting second highest CGPA.
+  - Awarded multiple scholarships for academic excellence including NORPART CONNECT Scholarship.
 
 ---
 
@@ -59,9 +61,9 @@
 ## 🔥 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SajjadAli54&show_icons=true&theme=blue-green&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=SajjadAli54&theme=blue-green" alt="GitHub Streak" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadAli54&theme=blue-green&langs_count=8&layout=compact" alt="Top Langs" width="49%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SajjadAli54&show_icons=true&theme=blue-green&count_private=true" alt="GitHub Stats" width="30%"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=SajjadAli54&theme=blue-green" alt="GitHub Streak" width="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadAli54&theme=blue-green&langs_count=8&layout=compact" alt="Top Langs" width="30%"/>
 </div>
 
 ---
