@@ -18,15 +18,19 @@
 ---
 
 ## 🚀 About Me
+
 - **Badri Management Consultancy, Karachi** — Software Developer
+
   - Front-end & back-end integration, machine learning model integration.
   - Optimized desktop apps using Electron, PyQt, and Tkinter.
 
 - **Solspro, Karachi** — MERN Stack Developer
+
   - Developed web & mobile apps with seamless transitions between tech stacks.
   - Implemented REST APIs with token authentication.
 
 - **NTNU, Norway** — Master Exchange Project
+
   - Research on advanced ML models (diffusion, transformers, FER).
 
 - **Sukkur IBA University, Sukkur** — BS Computer Science
@@ -36,18 +40,19 @@
 
 ## 🛠️ My Tech Stack
 
-| **Category**         | **Technologies**                                                                                       |
-|-----------------------|-------------------------------------------------------------------------------------------------------|
-| **Web Development**   | React, Next.js, jQuery, Bootstrap, DaisyUI                                                          |
-| **Backend**           | Node.js, Express, Django, FastAPI, Spring Boot, .NET                                                |
-| **Mobile Development**| Android Studio, Flutter, React Native                                                               |
-| **Desktop Development**| PyQt, Java Swing, C#                                                                               |
-| **Programming Languages**       | Python, JavaScript, Java, C#, Dart, Kotlin, R, C, C++                                               |
-| **Databases**         | MongoDB, MySQL, SQLite                                                                              |
-| **ORM/ODM**               | Prisma, SqlAlchemy, Entity Framework, Mongoose                                                                                              |
-| **Hosting**           | Firebase, GitHub Pages, Heroku, Netlify                                                            |
-| **IDEs/Editors**      | VS Code, IntelliJ IDEA, Jupyter Notebook, Android Studio, Vim, Visual Studio                       |
-| **OS**                | Linux (Ubuntu, Debian, Kali), Windows                                                              |
+| **Category**              | **Technologies**                                                                     |
+| ------------------------- | ------------------------------------------------------------------------------------ |
+| **Programming Languages** | Python, JavaScript, Java, C#, Dart, Kotlin, R, C, C++                                |
+| **Web Frontend**          | React, Next.js, jQuery, Bootstrap, DaisyUI, Radix UI, Chakra UI, Tailwind            |
+| **Web Backend**           | Node.js, Express, Django, FastAPI, Spring Boot, .NET, Flask                          |
+| **Desktop Development**   | PyQt, C#, Java Swing, JavaFx, Electron, Tkinter                                      |
+| **Data Science**          | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Tensorflow, PyTorch, Keras, OpenCV |
+| **Mobile Development**    | Android Studio, Flutter, React Native                                                |
+| **Databases**             | MongoDB, MySQL, SQLite, PostgreSQL, Microsoft SQL Server                             |
+| **ORM/ODM**               | Prisma, SqlAlchemy, Entity Framework, Mongoose                                       |
+| **Hosting**               | Firebase, GitHub Pages, Heroku, Netlify, Vercel                                      |
+| **IDEs/Editors**          | VS Code, IntelliJ IDEA, Jupyter Notebook, Android Studio, Vim, Visual Studio         |
+| **OS**                    | Linux (Ubuntu, Debian, Kali), Windows                                                |
 
 ---
 
@@ -64,6 +69,7 @@
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [State Pattern | Design Patterns](https://dev.to/sajjadali/state-pattern-design-patterns-4h5i)
 - [Memento Design Pattern](https://dev.to/sajjadali/memento-design-pattern-4b64)
 - [Palindromes in C++](https://dev.to/sajjadali/palindrome-in-c-4po5)
@@ -73,4 +79,5 @@
 ---
 
 ## 🌏 Connect with Me
+
 Feel free to reach out via any of my social platforms. Let's collaborate and build something amazing!
