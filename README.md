@@ -74,7 +74,6 @@
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [State Pattern | Design Patterns](https://dev.to/sajjadali/state-pattern-design-patterns-4h5i)
 - [Memento Design Pattern](https://dev.to/sajjadali/memento-design-pattern-4b64)
 - [Palindromes in C++](https://dev.to/sajjadali/palindrome-in-c-4po5)
