@@ -10,9 +10,9 @@
     <a href="https://www.kaggle.com/sajjadali786"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
     <a href="https://dev.to/sajjadali54"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
   </div>
-  <p>
+  <!-- <p>
     <img src="https://komarev.com/ghpvc/?username=SajjadAli54&style=flat-square&color=blue" alt="profile views"/>
-  </p>
+  </p> -->
 </div>
 
 ---
@@ -52,7 +52,7 @@
 | **ORM/ODM**               | Prisma, SqlAlchemy, Entity Framework, Mongoose                                       |
 | **Hosting**               | Firebase, GitHub Pages, Heroku, Netlify, Vercel                                      |
 | **IDEs/Editors**          | VS Code, IntelliJ IDEA, Jupyter Notebook, Android Studio, Vim, Visual Studio         |
-| **OS**                    | Linux (Ubuntu, Debian, Kali), Windows                                                |
+| **OS**                    | Linux (Ubuntu, Debian, Kali, PopOS, Manjaro, Linux Mint), Windows                    |
 
 ---
 
