@@ -74,10 +74,10 @@
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Avoid Pandas in Production Applications](https://dev.to/sajjadali/why-you-should-avoid-pandas-in-production-applications-2n3i)
 - [State Pattern | Design Patterns](https://dev.to/sajjadali/state-pattern-design-patterns-4h5i)
 - [Memento Design Pattern](https://dev.to/sajjadali/memento-design-pattern-4b64)
 - [Palindromes in C++](https://dev.to/sajjadali/palindrome-in-c-4po5)
-- [MVVM Architecture in Android development](https://dev.to/sajjadali/mvvm-architecture-in-android-development-5eio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
