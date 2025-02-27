@@ -1,9 +1,7 @@
 <div id="header" align="center">
   <h1>👋 Hey There, I'm Sajjad Ali!</h1>
-  <p> 🎯 Software Developer | 🤖 ML Enthusiast | 🔎 Problem Solver</p>
-  <img 
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
-    width="40px"/>
+  <h2>Full Stack Software Developer</h2>
+  <p> Building seamless digital experiences across Web, Mobile, and Desktop. Passionate Full-Stack Developer turning complex problems into elegant solutions.</p>
 </div>
 
 ---
@@ -86,12 +84,9 @@
 
 <div align="center">
   <p>Feel free to reach out and connect on my socials!</p>
-<div id="badges">
   <a href="https://imsajjadali.netlify.app/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sajjad-ali-b428b6198"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCXfYIIBvk2e4H60BdKoznRA"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
   <a href="https://www.kaggle.com/sajjadali786"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
   <a href="https://dev.to/sajjadali54"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
-</div>
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="60"/>
 </div>
