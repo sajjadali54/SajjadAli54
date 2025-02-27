@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>👋 Hey There, I'm Sajjad Ali!</h1>
-  <h2>Full Stack Software Developer</h2>
+  <h2>Full Stack Developer</h2>
   <p> Building seamless digital experiences across Web, Mobile, and Desktop. Passionate Full-Stack Developer turning complex problems into elegant solutions.</p>
 </div>
 
