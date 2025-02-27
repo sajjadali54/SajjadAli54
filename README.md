@@ -66,7 +66,7 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SajjadAli54&show_icons=true&theme=blue-green&count_private=true" alt="GitHub Stats" width="33%" height="200px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadAli54&theme=blue-green&langs_count=8&layout=compact" alt="Top Langs" width="33%" height="200px"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=SajjadAli54&theme=blue-green" alt="GitHub Streak" width="33%" height="200px"/>
+  <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=SajjadAli54&theme=blue-green" alt="GitHub Streak" width="33%" height="200px"/> -->
 </div>
 
 ---
@@ -87,6 +87,7 @@
 <div align="center">
   <p>Feel free to reach out and connect on my socials!</p>
 <div id="badges">
+  <a href="https://imsajjadali.netlify.app/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sajjad-ali-b428b6198"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCXfYIIBvk2e4H60BdKoznRA"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
   <a href="https://www.kaggle.com/sajjadali786"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
