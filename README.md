@@ -62,7 +62,7 @@
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SajjadAli54&show_icons=true&theme=blue-green&count_private=true" alt="GitHub Stats" width="33%" height="200px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SajjadAli56&show_icons=true&theme=blue-green&count_private=true" alt="GitHub Stats" width="33%" height="200px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadAli56&theme=blue-green&langs_count=8&layout=compact" alt="Top Langs" width="33%" height="200px"/>
   <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=SajjadAli54&theme=blue-green" alt="GitHub Streak" width="33%" height="200px"/> -->
 </div>
